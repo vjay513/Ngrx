@@ -1,0 +1,16 @@
+{
+  "customers":[{
+    "name":"vijay",
+    "phone":"87675",
+    "address":"1234 Hyderabad",
+    "membership":"plaitnum",
+    "id": 1
+  },
+  {
+    "name":"Krishna",
+    "phone":"876455",
+    "address":"1234 Palsa",
+    "membership":"VIP",
+    "id": 2
+  }]
+}
